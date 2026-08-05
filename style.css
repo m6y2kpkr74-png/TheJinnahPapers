@@ -5,3 +5,30 @@ body{
 h1,h2,h3{
     font-family:'Cormorant Garamond', serif;
 }
+background:#f8f6f2;
+color:#222;
+.button{
+
+background:#0B5D4B;
+
+color:white;
+
+padding:14px 30px;
+
+border-radius:30px;
+
+text-decoration:none;
+
+font-weight:600;
+
+transition:.3s;
+}
+
+.button:hover{
+
+background:#094538;
+
+transform:translateY(-2px);
+
+}
+<a href="#" class="button">Read Papers</a>
