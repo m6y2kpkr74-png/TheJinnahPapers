@@ -1,1 +1,7 @@
-body{font-family:Georgia,serif;max-width:900px;margin:auto;padding:2rem;background:#f8f6f2;color:#222}header{border-bottom:1px solid #999}a{margin-right:1rem}
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+h1,h2,h3{
+    font-family:'Cormorant Garamond', serif;
+}
